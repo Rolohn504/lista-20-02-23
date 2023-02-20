@@ -1,6 +1,5 @@
 #EXTM3U 
-#EXTINF:0,13 C #EXTGRP:unsorted 
-http://45.225.95.171:8000/play/a0f8/index.m3u8 
+#EXTINF:0,13 C #EXTGRP:unsorted http://45.225.95.171:8000/play/a0f8/index.m3u8 
 #EXTINF:0,24 Horas TVN #EXTGRP:unsorted http://45.225.95.171:8000/play/a0ga/index.m3u8 
 #EXTINF:0,A&E #EXTGRP:unsorted http://45.225.95.171:8000/play/a0jb/index.m3u8 
 #EXTINF:0,AmØrica Televisiðn #EXTGRP:unsorted http://45.225.95.171:8000/play/a0eb/index.m3u8 
